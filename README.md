@@ -12,7 +12,7 @@ But why to create a restricted shell in first place?
 
 # What this project does ?
 
-  - There are 4 restricted python shells I have created, with restricting ['exec', 'import' & 'compile'], ['exec','eval','compile'], ['exec','import' , 'eval'] & ['exec','compile','import','eval'].
+  - There are 4 restricted python shells I have created, with restricting ['import','eval','compile'], ['import','exec','compile'], ['import','exec','eval'] & ['import','exec','eval','compile'].
   
 
 
