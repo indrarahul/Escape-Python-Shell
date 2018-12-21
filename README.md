@@ -10,7 +10,7 @@ But why to create a restricted shell in first place?
 - To protect system from dangerous commands.
 - To use in CTF Challenges.
 
-# What this project does ?
+# What this project is all about ?
 
   - There are 4 restricted python shells I have created, with restricting ['import','eval','compile'], ['import','exec','compile'], ['import','exec','eval'] & ['import','exec','eval','compile'].
   
