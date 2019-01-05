@@ -17,7 +17,7 @@ But why to create a restricted shell in first place?
 
 
 **Copyright**
-
+Rahul Indra
 
 
    [dill]: <https://github.com/joemccann/dillinger>
